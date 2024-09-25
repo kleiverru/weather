@@ -29,3 +29,5 @@ Gestión de Estado:
 Solitar permisos: https://github.com/kleiverru/weather/blob/master/assets/permisos.png
 APP_complete: https://github.com/kleiverru/weather/blob/master/assets/app_funcionando.png
 
+Nota: El codigo ya viene con mi API_KEY, sim embargo puede cambiarlo y generar una propia
+
