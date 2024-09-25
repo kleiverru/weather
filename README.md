@@ -23,5 +23,7 @@ Actualización de Datos:
 - El botón "Actualizar" se encarga de solicitar nuevos datos meteorológicos y actualizar la interfaz.
 
 Gestión de Estado:
-- Se utiliza un patrón BLoC (Business Logic Component) para separar la lógica de negocio de la interfaz de usuario. 
+- Se utiliza un patrón BLoC (Business Logic Component) para separar la lógica de negocio de la interfaz de usuario.
+
+- https://github.com/kleiverru/weather/blob/master/assets/permisos.png
 
